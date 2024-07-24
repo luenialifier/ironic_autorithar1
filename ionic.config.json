@@ -1,0 +1,7 @@
+{
+  "name": "ironic_autorithar",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
